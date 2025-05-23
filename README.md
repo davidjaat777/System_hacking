@@ -19,4 +19,6 @@ Task 3 : Use Hashcat to match each hash in hashes.txt with the correct plaintext
 1. Create a file named hashes.txt containing the following hashes: f7f7d9900e97ae484ca52fea8049e27f a165968b0a8084a041aed89bf40d581f
 2. Create a file named passwords.txt containing the following plain text: Helloworld 123 CyberTeam letmein
 3. Tools: Kali Linux, Hashcat
-<img width="861" alt="Image" src="https://github.com/user-attachments/assets/fb27e1f1-d64b-440c-a38f-d1d573bbdd3c" />
+<img width="1268" alt="Image" src="https://github.com/user-attachments/assets/8f99c13a-1287-444d-8908-dfaa74040db4" />
+<img width="808" alt="Image" src="https://github.com/user-attachments/assets/f8d2a45e-db36-4d9e-a642-ff5d1741242a" />
+<img width="573" alt="Image" src="https://github.com/user-attachments/assets/44a2e7f8-5e1a-4aa0-89b4-c867936110a2" />
